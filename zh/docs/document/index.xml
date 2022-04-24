@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documents-文档 on VPython 中文网站</title>
-    <link>https://example.com/zh/docs/document/</link>
+    <link>https://jiap.github.io/zh/docs/document/</link>
     <description>Recent content in Documents-文档 on VPython 中文网站</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/zh/docs/document/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://jiap.github.io/zh/docs/document/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

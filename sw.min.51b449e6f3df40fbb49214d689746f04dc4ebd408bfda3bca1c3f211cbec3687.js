@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/vpython_cn/sw.js",{scope:"/vpython_cn/"})
